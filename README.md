@@ -6,3 +6,10 @@ Repository for creating projects with team collaborators.
 
 This repository will serve as the basis for the creation of group project or projects with team members of team collaborators.
 
+## Team Collaborators
+
+- Neil Bekker
+- Person A
+- Person B
+- Person C
+
